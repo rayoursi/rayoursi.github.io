@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rayoursi.github.io/sitemap.rayoursi.gz
+Sitemap: https://rayoursi.github.io/app/sitemap.rayoursi.gz
+Sitemap: https://rayoursi.github.io/assets/sitemap.rayoursi.gz
+Sitemap: https://rayoursi.github.io/css/sitemap.rayoursi.gz
+Sitemap: https://rayoursi.github.io/data/sitemap.rayoursi.gz
+Sitemap: https://rayoursi.github.io/includes/sitemap.rayoursi.gz
+Sitemap: https://rayoursi.github.io/item/sitemap.rayoursi.gz
+Sitemap: https://rayoursi.github.io/src/sitemap.rayoursi.gz
